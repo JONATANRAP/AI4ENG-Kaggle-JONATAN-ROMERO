@@ -18,7 +18,7 @@
 ---
 
 ## 🎥 Video de avance - Entrega 2
-📺 [Ver video en YouTube](https://www.youtube.com/watch?v=kZHCuvixIXQ)
+📺 [Ver video en YouTube](https://www.youtube.com/watch?v=NmGJ3cgwXY4)
 
 ---
 
