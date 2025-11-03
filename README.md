@@ -9,8 +9,8 @@
   **Cédula:** 1001560844  
   **Programa:** Ingeniería de Sistemas  
 
-  - **Nombre:** David Lopez  
-  **Cédula:** 1001560844  
+- **Nombre:** Cristian David Diez Lopez  
+  **Cédula:** 1036967493 
   **Programa:** Ingeniería de Sistemas 
 
 ---
