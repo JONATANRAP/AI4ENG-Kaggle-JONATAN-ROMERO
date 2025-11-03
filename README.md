@@ -10,14 +10,15 @@
   **Programa:** Ingeniería de Sistemas  
 
 - **Nombre:** Cristian David Diez Lopez  
-  **Cédula:** 1036967493 
+  **Cédula:** 1036967493
+  
   **Programa:** Ingeniería de Sistemas 
+
 
 ---
 
 ## 🎥 Video de avance - Entrega 2
-Rafael Aleman: https://youtu.be/vqWG1pOQSGw
-📺 [Ver video en YouTube](PONER_ENLACE_DEL_VIDEO)
+📺 [Ver video en YouTube](https://www.youtube.com/watch?v=NmGJ3cgwXY4)
 
 ---
 
