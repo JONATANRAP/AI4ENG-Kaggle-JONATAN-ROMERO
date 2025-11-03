@@ -16,6 +16,7 @@
 ---
 
 ## 🎥 Video de avance - Entrega 2
+Rafael Aleman: https://youtu.be/vqWG1pOQSGw
 📺 [Ver video en YouTube](PONER_ENLACE_DEL_VIDEO)
 
 ---
