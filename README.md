@@ -72,20 +72,6 @@ Notebook oficial de la solución final enviada a Kaggle. Este notebook:
 
 ---
 
-# 🏆 Participación en Kaggle
-
-Cada integrante realizó su propio envío desde su cuenta personal.
-
-### Usuarios del grupo en Kaggle
-- Jonatan Romero Arrieta – *Pendiente de agregar usuario*  
-- Rafael Ángel Alemán Castillo – *Pendiente de agregar usuario*  
-- Cristian David Díez López – *Pendiente de agregar usuario*  
-
-### Posición actual en el leaderboard
-➡️ *Pendiente de completar después de la entrega final*  
-
----
-
 # 📌 Notas importantes para el profesor y la evaluación
 
 - Este repositorio sigue **estrictamente** la estructura requerida:  
